@@ -8,8 +8,8 @@
 
 
 🔭 I’m currently working on:
-- (Evictorbook)[https://evictorbook.com]
-- (Rose City Resource)[https://streetroots.org/rosecityresource]
+- [Evictorbook](https://evictorbook.com)
+- [Rose City Resource](https://streetroots.org/rosecityresource)
 
 <!--
 **kentpmckinney/kentpmckinney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
