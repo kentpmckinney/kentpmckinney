@@ -1,13 +1,15 @@
 <h1 align="center">Kent McKinney</h1>
 <p>
-  👋 I'm a web developer based in Portland, Oregon. 
+  👋 I'm a web developer based in Portland, Oregon
 </p>
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-kentpmckinney-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kentpmckinney)
 
-- 🔭 I’m currently working on:
-  - (Evictorbook)[https://evictorbook.com]
-  - (Rose City Resource)[https://streetroots.org/rosecityresource]
+
+🔭 I’m currently working on:
+- (Evictorbook)[https://evictorbook.com]
+- (Rose City Resource)[https://streetroots.org/rosecityresource]
 
 <!--
 **kentpmckinney/kentpmckinney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -24,7 +26,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Languages and Tools:
+#### Languages and Tools:
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original-wordmark.svg" title="Angular" alt="Angular" height="40"/>&nbsp;
