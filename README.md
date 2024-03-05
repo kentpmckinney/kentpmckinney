@@ -3,7 +3,12 @@
   👋 I'm a web developer based in Portland, Oregon. 
 </p>
 
-- 🎥 I’m currently working on (Evictorbook)[https://evictorbook.com] and (Rose City Resource)[https://streetroots.org/rosecityresource]
+[![Linkedin Badge](https://img.shields.io/badge/-kentpmckinney-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kentpmckinney)
+
+- 🔭 I’m currently working on:
+  - (Evictorbook)[https://evictorbook.com]
+  - (Rose City Resource)[https://streetroots.org/rosecityresource]
+
 <!--
 **kentpmckinney/kentpmckinney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
